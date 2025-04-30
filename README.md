@@ -74,7 +74,7 @@
 
 * [🧑‍💻 Follow ORMAN-XMD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VasAQRiGk1FtXGUz5T2V/683)
 
-* [🧑‍💻 Join ANONYMOUS-MD Telegram Group 🧑‍💻](https://t.me/ORMAN_XMD)
+* [🧑‍💻 Join ORMAN-XMD Telegram Group 🧑‍💻](https://t.me/ORMAN_XMD)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
