@@ -1,2 +1,1 @@
-# ORMAN_XMD
-ORMAN XMD Bot is an innovative tool designed to enhance your WhatsApp experience by automating various interactions and providing engaging features. Whether you’re looking for motivation, media downloads, or interactive polls, this bot has you covered. 
+# ORMAN_XMD 𝐈𝐒 𝐇𝐄𝐑𝐄 𝐓𝐈 𝐌𝐀𝐊𝐄 𝐘𝐎𝐔𝐑 𝐃𝐀𝐘 𝐂𝐎𝐋𝐎𝐑𝐅𝐔𝐋
