@@ -2,7 +2,7 @@
   </p>
  
 <p align="center">
-<img src="https://files.catbox.moe/2i40zv.jpg"/> 
+<img src="https://files.catbox.moe/n5klhs.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Terrizev}/count.svg" alt="Terrizev:: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Terrizev/followers"><img title="Followers" src="https://img.shields.io/github/followers/Terrizev?color=red&style=flat-square"></a>
