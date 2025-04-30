@@ -3,7 +3,7 @@
  
 <p align="center">
 <img src="https://files.catbox.moe/n5klhs.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{Terrizev}/count.svg" alt="Terrizev:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Terrizev}/count.svg" alt="Orman87:: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Terrizev/followers"><img title="Followers" src="https://img.shields.io/github/followers/Terrizev?color=red&style=flat-square"></a>
 <a href="https://github.com/Terrizev/ANONYMOUS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Terrizev/ANONYMOUS-MD?color=blue&style=flat-square"></a>
