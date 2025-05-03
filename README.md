@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ORMAN XMD" alt="Typing SVG" /></a>
+<a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFEA43&background=D482FF&width=435&lines=ORMAN+XMD)](https://git.io/typing-svg) /></a>
   </p>
  
 <p align="center">
