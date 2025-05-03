@@ -1,5 +1,5 @@
-<a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFEA43&background=D482FF&width=435&lines=ORMAN+XMD)](https://git.io/typing-svg) /></a>
-  </p>
+"[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFEA43&background=D482FF&width=435&lines=ORMAN+XMD)](https://git.io/typing-svg) /></a>
+  
  
 <p align="center">
 <img src="https://files.catbox.moe/n5klhs.jpg"/> 
