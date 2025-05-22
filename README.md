@@ -1,5 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=FFEA43&background=D482FF&width=435&lines=ORMAN+XMD)](https://git.io/typing-svg)
-  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=⚡+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+💀" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=ORMAN-+XMD+BOT" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=ORMAN+XMD+TEAM+;KEEP+USING+ORMAN+XMD" alt="Typing SVG" />
+  </a>
+</p
  
 <p align="center">
 <img src="https://files.catbox.moe/n5klhs.jpg"/> 
