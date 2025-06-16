@@ -32,44 +32,6 @@
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-
- ##ORMAN-XMD Deployment Methods
-
-### 1. FORK THIS REPO
-
-<a href='https://github.com/Terrizev/ANONYMOUS-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
-### 2. GET SESSION ID HERE
-
-### SERVER 1 
- 
-<a href="https://anonymous-session-id-kj1s.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>      
-
-
-
-### DEPLOY ON CLEVER CLOUD
-
-1. If you don't have an account in Clever Cloud, create one and deploy.
-    <br>
-    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
-
-### DEPLOY ON HEROKU
-
-1. If you don't have an account in Heroku, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Terrizev/ANONYMOUS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://replit.com/github/Terrizev/ANONYMOUS-MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/Terrizev/ANONYMOUS-MD' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
-
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## ORMAN-XMD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
