@@ -781,7 +781,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   setTimeout(() => {
   connectToWA()
   }, 4000);
- ORMAN-XMD STARTED ✅");
+  ("ORMAN-XMD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
