@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=ORMAN+XMD+TEAM+;KEEP+USING+ORMAN+XMD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=BLACK+TECH+TEAM+;KEEP+USING+ORMAN+XMD" alt="Typing SVG" />
   </a>
 </p
  
@@ -20,7 +20,7 @@
 <img src="https://files.catbox.moe/n5klhs.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Terrizev}/count.svg" alt="Orman87:: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/Terrizev/followers"><img title="Followers" src="https://img.shields.io/github/followers/Terrizev?color=red&style=flat-square"></a>
+<a href="https://github.com/Orman87/followers"><img title="Followers" src="https://img.shields.io/github/followers/Terrizev?color=red&style=flat-square"></a>
 <a href="https://github.com/Terrizev/ANONYMOUS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Terrizev/ANONYMOUS-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Terrizev/ANONYMOUS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Terrizev/ANONYMOUS-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Terrizev/ANONYMOUS-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Terrizev/ANONYMOUS-MD?label=Watchers&color=blue&style=flat-square"></a>
