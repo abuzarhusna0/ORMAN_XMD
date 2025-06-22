@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("𝙾𝚁𝙼𝙰𝙽~£𝚇𝙼𝙳~", '');
+const sessdata = config.SESSION_ID.replace("orman~xmd~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -781,9 +781,4 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   setTimeout(() => {
   connectToWA()
   }, 4000);
-  ("ORMAN-XMD STARTED ✅");
-  });
-  app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
-  setTimeout(() => {
-  connectToWA()
-  }, 4000);
+
