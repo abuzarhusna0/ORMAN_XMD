@@ -7,20 +7,20 @@ cmd({
   on: "body"
 },
 async (conn, mek, m, { from, body }) => {
-    const filePath = path.join(__dirname, '../DybyTech/autosticker.json');
+    const filePath = path.join(__dirname, '../orman/autosticker.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
     for (const text in data) {
         if (body.toLowerCase() === text.toLowerCase()) {
             if (config.AUTO_STICKER === 'true') {
-                const stickerPath = path.join(__dirname, '../DybyTech/autosticker', data[text]);
+                const stickerPath = path.join(__dirname, '../orman/autosticker', data[text]);
 
                 if (fs.existsSync(stickerPath)) {
                     const stickerBuffer = fs.readFileSync(stickerPath);
 
                     await conn.sendMessage(from, {
                         sticker: stickerBuffer,
-                        packname: '𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃',
+                        packname: 'ORMAN-XMD',
                         author: '●'
                     }, { quoted: mek });
                 } else {
