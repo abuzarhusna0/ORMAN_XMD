@@ -1,15 +1,4 @@
-/*
-_  ______   _____ _____ _____ _   _
-| |/ / ___| |_   _| ____/___ | | | |
-| ' / |  _    | | |  _|| |   | |_| |
-| . \ |_| |   | | | |__| |___|  _  |
-|_|\_\____|   |_| |_____\____|_| |_|
 
-ANYWAY, YOU MUST GIVE CREDIT TO MY CODE WHEN COPY IT
-CONTACT ME HERE +237656520674
-YT: KermHackTools
-Github: Kgtech-cmr
-*/
 
 const { cmd } = require('../command');
 
@@ -25,12 +14,12 @@ cmd(
         try {
             // Check if the user provided a name
             if (!args || args.length === 0) {
-                return reply("❌ *Invalid format!*\n\n➤ Usage: `.vcard <Name>`\n➤ Example: `.vcard Lord Kerm`\n\nℹ️ You must provide a name for the contact.");
+                return reply("❌ *Invalid format!*\n\n➤ Usage: `.vcard <Name>`\n➤ Example: `.vcard DybyTech`\n\nℹ️ You must provide a name for the contact.");
             }
 
             // Check if the user replied to a message
             if (!quoted) {
-                return reply("❌ *Missing Reply!*\n\n➤ You must reply to a user's message to create their contact.\n➤ Example: Reply to a user's message and type `.vcard Lord Kerm`.");
+                return reply("❌ *Missing Reply!*\n\n➤ You must reply to a user's message to create their contact.\n➤ Example: Reply to a user's message and type `.vcard DybyTech`.");
             }
 
             // Get the sender's number from the quoted message
