@@ -55,7 +55,6 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  
                     newsletterName: config.OWNER_NAME || '𝙾𝚁𝙼𝙰𝙽-𝚇𝙼𝙳 ᵇᵒᵗ',
                     serverMessageId: 143
                 }
@@ -65,8 +64,5 @@ async (conn, mek, m, { from, reply }) => {
     } catch (error) {
         console.error("Repo command error:", error);
         reply("❌ Une erreur est survenue lors de la récupération du dépôt.");
-    }
-});
-     reply("❌ Une erreur est survenue lors de la récupération du dépôt.");
     }
 });
