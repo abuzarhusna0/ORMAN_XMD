@@ -38,7 +38,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/256704291969"><img src="https://img.shields.io/badge/Contact ORMAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://tinyurl.com/yok3jqxk"><img src="https://img.shields.io/badge/Contact ORMAN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VasAQRiGk1FtXGUz5T2V/683"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/theking256"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -56,7 +56,7 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *ORMAN-XMD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *ORMAN-XMD is not made by `WhatsApp Inc.` Sometimes misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use ORMAN-XMD at your own risk by keeping this warning in mind.*
   
