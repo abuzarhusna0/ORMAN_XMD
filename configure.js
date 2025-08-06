@@ -2,8 +2,8 @@
 const fs = require('fs')
 const chalk = require('chalk')
 // setting bot
-global.owner = "256704291969"
-global.ownername = "King Orman"
+global.owner = "923130948950"
+global.ownername = "AbuXar-46"
 global.botname = "ORMAN-XMD"
 global.author = "256704291969"
 global.xprefix = '.'
